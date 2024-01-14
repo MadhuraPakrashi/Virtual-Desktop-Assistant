@@ -1,4 +1,4 @@
-The project you've described is a voice recognition device created using Python. This device, named "Jarvis," utilizes several libraries and modules to understand spoken commands and perform various tasks. Here's an overview of the key components and functionalities of the project:
+"Jarvis" is a voice recognition device created using Python which utilizes several libraries and modules to understand spoken commands and perform various tasks. Here's an overview of the key components and functionalities of the project:
 
 ## Libraries and Modules: 
 The project begins by importing essential libraries, including:
